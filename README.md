@@ -165,4 +165,4 @@ Após encontrar credenciais válidas em cada cenário, o acesso foi validado man
 
 ## 🙋 Autor
 
-Ismael Souza — Gestor em Tecnologia da Informação (IEPTEC), projeto desenvolvido como parte do Bootcamp Santander — Cibersegurança do Zero à Prática (DIO).
+Ismael Souza  — Cibersegurança do Zero à Prática (DIO).
